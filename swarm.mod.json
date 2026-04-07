@@ -1,0 +1,11 @@
+{
+  "id": "dev.swarmprotocol.storacha",
+  "name": "Swarm Storacha",
+  "version": "0.1.0",
+  "swarmApi": "^0.1.0",
+  "entrypoint": {
+    "type": "worker",
+    "url": "https://storacha.swarmprotocol.fun/v0.1.0/worker.js"
+  },
+  "permissions": []
+}
